@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CreeperNation/.github/main/CNIcon%402x.png" height="150">
+  <img src="https://raw.githubusercontent.com/CreeperNation/.github/master/profile/CNIcon%25402x.png" height="150">
   <h3 align="center">CreeperNation</h3>
 </p>
 <br>
@@ -13,8 +13,7 @@
  - [@Liven](https://github.com/CallMeAryan) - Owner
  - [@Bret06](https://github.com/Bret06) - Developer
 
-## projects
-
+## Projects
  - [CreeperNation SkinAPI](https://api-docs.creepernation.xyz)
 
 ## Contact
