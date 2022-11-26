@@ -14,8 +14,8 @@
  - [@Bret06](https://github.com/Bret06) - Web Developer
 
 ## Projects
- - [CreeperNation SkinAPI](https://api-docs.creepernation.xyz)
+ - [CreeperNation SkinAPI](https://api-docs.creepernation.net)
 
 ## Contact
- - Discord: https://discord.creepernation.xyz
+ - Discord: https://discord.creepernation.net
  - Email: [contact@creepernation.xyz](mailto:contact@creepernation.xyz)
