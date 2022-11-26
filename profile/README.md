@@ -18,4 +18,4 @@
 
 ## Contact
  - Discord: https://discord.creepernation.net
- - Email: [contact@creepernation.xyz](mailto:contact@creepernation.xyz)
+ - Email: [contact@creepernation.net](mailto:contact@creepernation.net)
