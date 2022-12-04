@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CreeperNation/.github/master/profile/CNLOGO402%25.png" height="150">
+  <img src="https://api-docs.creepernation.net/assets/img/Banner-Text.png" height="300">
   <h3 align="center">CreeperNation</h3>
 </p>
 <br>
