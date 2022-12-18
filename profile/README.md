@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://creepernation.net/assets/img/Banner-Text.png" height="300">
+  <img src="https://creepernation.net/assets/img/Banner-Text.png"     display: block;
+    max-width: 100%;
+    height: auto>
 </p>
 <br>
 
@@ -13,7 +15,7 @@
  - [@Bret06](https://github.com/Bret06) - Web Developer
 
 ## Projects
- - [CreeperNation SkinAPI](https://api-docs.creepernation.net)
+ - [CreeperNation SkinAPI](https://docs.creepernation.net/skinapi
 
 ## Contact
  - Discord: https://discord.creepernation.net
