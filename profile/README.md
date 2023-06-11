@@ -12,7 +12,6 @@
  - [@creeperz653](https://github.com/Creeperz653) - Owner
  - [@BlueTree242](https://github.com/BlueTree242) - Owner
  - [@Liven](https://github.com/CallMeAryan) - Owner
- - [@Bret06](https://github.com/Bret06) - Web Developer
 
 ## Projects
  - [CreeperNation SkinAPI](https://docs.creepernation.net/skinapi)
