@@ -14,7 +14,7 @@
  - [@Liven](https://github.com/CallMeAryan) - Owner
 
 ## Projects
- - [CreeperNation SkinAPI](https://docs.creepernation.net/skinapi)
+ - [CreeperNation SkinAPI](https://docs.creepernation.net)
 
 ## Contact
  - Discord: https://discord.creepernation.net
