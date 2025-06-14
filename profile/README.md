@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://creepernation.net/assets/img/Banner-Text.png"     display: block;
+  <img src="https://cdn.creepernation.net/images/assets/banner-text.png"     display: block;
     max-width: 100%;
     height: auto>
 </p>
